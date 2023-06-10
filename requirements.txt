@@ -3,3 +3,4 @@ fasttext
 scikit-learn
 pandas
 setuptools
+matplotlib
