@@ -1,1 +1,2 @@
 import fasttext
+import sklearn
