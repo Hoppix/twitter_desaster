@@ -1,6 +1,8 @@
 torch
+torchtext
 fasttext
 scikit-learn
 pandas
+numpy
 setuptools
 matplotlib
